@@ -88,18 +88,19 @@ pip install Django
 - On the home page, you can view the latest blog posts.
 - Navigate through multiple pages of blog posts using pagination.
 
+![ ](https://github.com/user-attachments/assets/36efba9c-31b7-41e5-91fb-4faf31322b98)
+
 ###  Responsive Design & Dark Mode Toggle
 
 - Uses Flowbite and Tailwind CSS for a clean, responsive layout.
 - User-friendly light/dark mode switch.
 
+![ ](https://github.com/user-attachments/assets/44388287-06e4-4e73-a898-ae378494966f)
+
 ### Search
 
 - Utilize the search form in the navigation menu to search for specific blog posts based on title, content, or author name.
 
-
-
-![ ](https://github.com/user-attachments/assets/36efba9c-31b7-41e5-91fb-4faf31322b98)
 ![ ](https://github.com/user-attachments/assets/1bb20779-176e-43bd-9c59-5b7c3ba62358)
-![ ](https://github.com/user-attachments/assets/44388287-06e4-4e73-a898-ae378494966f)
+
 
