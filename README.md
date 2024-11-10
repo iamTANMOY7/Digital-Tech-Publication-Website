@@ -71,6 +71,8 @@ pip install Django
    
 8.  Open your web browser and visit [http://localhost:8000/demo](http://localhost:8000/demo) to access the modern UI Django Blog project.
 
+<hr>
+
 <h2>Project Overview</h2>
 
 ## Features 
