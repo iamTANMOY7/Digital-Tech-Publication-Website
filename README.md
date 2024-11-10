@@ -62,8 +62,8 @@ pip install Django
    npx tailwindcss init
    npx tailwindcss -i ./static/src/input.css -o ./static/src/output.css --watch
    ```
-   
-7.  Run the development server:
+      
+7. Run the development server:
 
    ```bash
    python manage.py runserver
