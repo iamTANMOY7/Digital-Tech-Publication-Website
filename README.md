@@ -3,10 +3,14 @@
 <h2>Project Overview</h2>
 <p>This project is a Tech Blog Publication Website built with Django for backend functionality and Flowbite for responsive and modern UI components. It allows users to publish and read blog posts, with a focus on tech-related content.</p>
 
-<b>Key Features</b>
-<b>User Authentication:</b> Allows users to log in, register, and manage their accounts.<br>
+<b>Key Features :</b>
+<br>
+<b>User Authentication:</b> Allows users to log in, register, and manage their accounts.
+<br>
 <b>Blog Posts:</b> Users can create, read, update, and delete blog posts.
+<br>
 <b>Admin Panel:</b> Built-in Django Admin for managing blog posts and users.
+<br>
 
 ![ ](https://github.com/user-attachments/assets/c1f80c7f-f676-4258-b306-3acbd4db4520)
 ![ ](https://github.com/user-attachments/assets/4d5a4a98-6a16-4450-ba45-3251bc7776b3)
