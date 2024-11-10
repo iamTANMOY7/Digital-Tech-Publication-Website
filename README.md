@@ -62,7 +62,7 @@ pip install Django
    python manage.py runserver
    ```
 
-7. Open your web browser and visit [http://localhost:8000/](http://localhost:8000/) to access the Django Blog project.
+7. Open your web browser and visit [http://localhost:8000/demo](http://localhost:8000/demo) to access the modern UI Django Blog project.
 
 <h2>Project Overview</h2>
 
