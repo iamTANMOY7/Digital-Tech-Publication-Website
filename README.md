@@ -1,4 +1,4 @@
-<h1> Tech News Blog Publication Website using Django and Flowbite </h1>
+<h1> Tech News Publication Website using Django, Tailwind CSS, and Flowbite </h1>
 
 <h2>Project Overview</h2>
 <p>This project is a Tech Blog Publication Website built with Django for backend functionality and Flowbite for responsive and modern UI components. It allows users to publish and read blog posts, with a focus on tech-related content.</p>
