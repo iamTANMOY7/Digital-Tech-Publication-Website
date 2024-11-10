@@ -56,20 +56,20 @@ pip install Django
    pip install -r requirements.txt
    ```
 
-7. Create a new terminal and Install Tailwind/Flowbite
+6. Create a new terminal and Install Tailwind/Flowbite
   
    ```bash
    npx tailwindcss init
    npx tailwindcss -i ./static/src/input.css -o ./static/src/output.css --watch
    ```
    
-8.  Run the development server:
+7.  Run the development server:
 
    ```bash
    python manage.py runserver
    ``` 
    
-9.  Open your web browser and visit [http://localhost:8000/demo](http://localhost:8000/demo) to access the modern UI Django Blog project.
+8.  Open your web browser and visit [http://localhost:8000/demo](http://localhost:8000/demo) to access the modern UI Django Blog project.
 
 <h2>Project Overview</h2>
 
