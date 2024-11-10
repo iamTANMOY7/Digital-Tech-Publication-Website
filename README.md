@@ -10,12 +10,10 @@
 <b>Blog Posts:</b> Users can create, read, update, and delete blog posts.
 <br>
 <b>Admin Panel:</b> Built-in Django Admin for managing blog posts and users.
-<hr>
-
-![ ](https://github.com/user-attachments/assets/c1f80c7f-f676-4258-b306-3acbd4db4520)
-
-<hr>
-<b>Responsive Design: Uses Flowbite and Tailwind CSS for a clean, responsive layout.</b>
+<br>
+<b>Responsive Design:</b> Uses Flowbite and Tailwind CSS for a clean, responsive layout.
+<br>
+<b>Dark Mode Toggle:</b> User-friendly light/dark mode switch.
 <hr>
 
 ![ ](https://github.com/user-attachments/assets/449d56a9-0952-4c99-81c9-3ccebf3dd67b)
