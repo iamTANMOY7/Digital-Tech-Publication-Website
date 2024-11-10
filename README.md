@@ -99,7 +99,7 @@ pip install Django
 
 ### Search
 
-- Utilize the search form in the navigation menu to search for specific blog posts based on title, content, or author name.
+- Utilize the search form in the navigation menu to search for specific blog posts based on title, content.
 
 ![ ](https://github.com/user-attachments/assets/1bb20779-176e-43bd-9c59-5b7c3ba62358)
 
