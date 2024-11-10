@@ -80,7 +80,8 @@ pip install Django
 
 - To create an account, click the "Register" link in the navigation menu.
 - To log in, click the "Login" link in the navigation menu.
-- Authenticated users can create their own blogs, comment on blogs.
+
+![ ](https://github.com/user-attachments/assets/449d56a9-0952-4c99-81c9-3ccebf3dd67b)
 
 ### Blog Management
 
@@ -97,7 +98,7 @@ pip install Django
 - Utilize the search form in the navigation menu to search for specific blog posts based on title, content, or author name.
 
 
-![ ](https://github.com/user-attachments/assets/449d56a9-0952-4c99-81c9-3ccebf3dd67b)
+
 ![ ](https://github.com/user-attachments/assets/36efba9c-31b7-41e5-91fb-4faf31322b98)
 ![ ](https://github.com/user-attachments/assets/1bb20779-176e-43bd-9c59-5b7c3ba62358)
 ![ ](https://github.com/user-attachments/assets/44388287-06e4-4e73-a898-ae378494966f)
