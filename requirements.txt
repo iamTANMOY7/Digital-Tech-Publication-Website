@@ -1,0 +1,9 @@
+asgiref
+django
+Pillow
+sqlparse
+tzdata
+django-compressor
+npm install
+npm install -D tailwindcss
+npm install flowbite
