@@ -21,7 +21,7 @@ pip install Django
 1. Clone the project repository from GitHub:
 
    ```bash
-   git clone https://github.com/iamTANMOY7/Digital-Tech-Publication-Website.git
+   git clone https://github.com/iamTANMOY7/Tech-News-Publication-Website.git
    ```
 
 2. Navigate to the project directory:
